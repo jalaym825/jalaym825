@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently learning Java and DSA<br><br>🚀 I'm currently working on a [table reservation system](https://github.com/jalaym123/SGP-1) using MERN stack<br>
+🧠 I’m currently learning Spring and DSA<br><br>🚀 I'm currently working on a [Spoural Live Cricket Score](https://github.com/jalaym825/sgp-2-backend-server) using PERN stack<br>
 
 
 ## 🌐 Socials:
