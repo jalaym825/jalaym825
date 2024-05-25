@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently learning SpringBoot and DSA<br><br>🚀 I'm currently working on a [Spoural Live Cricket Score](https://github.com/jalaym825/sgp-2-backend-server) using PERN stack and [socket.io](https://socket.io/)<br>
+🧠 I’m currently learning Spring and DSA<br><br>🚀 I'm currently working on a [Spoural Live Cricket Score](https://github.com/jalaym825/sgp-2-backend-server) using PERN stack and [socket.io](https://socket.io/)<br><br>🧑‍💻 Preparing for OCJP Associate
 
 
 ## 🌐 Socials:
