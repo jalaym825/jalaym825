@@ -41,14 +41,10 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalaym825&theme=dark&hide_border=false)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jalaym825?ext=heatmap" alt="LeetCode Stats" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/jalaym825?ext=heatmap)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaymovaliya)
