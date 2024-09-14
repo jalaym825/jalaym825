@@ -1,29 +1,61 @@
-# 💫 About Me:
-🧠 I’m currently working on NestJS, Spring and DSA<br><br>🚀 I'm currently working on a [Top Secret Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ) using miscellaneous tech stack.
+# 👋 Hi, I'm Jalay Movaliya
 
+## 💫 About Me
+🎓 B.Tech Computer Engineering student at CHARUSAT (CGPA: 9.64/10)
+💼 Software Developer at Neev Technologies (Remote)
+🧠 Currently deepening my expertise in NestJS, Spring, and Data Structures & Algorithms
+🚀 Working on CareerQuest, an AI-driven hiring platform (Backend Developer)
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/jalaymovaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jalaymovaliya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jalaym825" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jalaym825" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jalaym825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jalaym825" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jalaym825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jalaym825" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jalaym825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jalaym825" height="30" width="40" /></a>
-<a href="https://instagram.com/jalaym825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jalaym825" height="30" width="40" /></a>
+## 🛠 Tech Stack
+- Languages: Java, JavaScript, TypeScript, C/C++
+- Backend: Node.js, NestJS, Express.js, Spring Boot
+- Frontend: React.js, React Native
+- Databases: PostgreSQL, MongoDB
+- ORM: Prisma, Hibernate
+- DevOps: Docker, Git & GitHub
 
+## 🏆 Achievements
+- 🏅 LeetCode Knight (Max Rating: 1882, Top 4.96%)
+  - Ranked 1356th globally in Weekly Contest 401
+  - Solved 400+ challenges
+- ⭐ CodeChef 3 Star (Max Rating: 1655)
+  - Ranked 285th out of 3014 in Start 112
+- 🥇 7th place out of 1000 in Coder's Arcade (University Level CP Contest)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+## 🌟 Featured Projects
+1. **CareerQuest** (In Progress)
+   - AI-driven hiring platform with automated tests and interviews
+   - Tech: AI, LangChain, Node.js, NestJS, React.js
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jalaym825&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 📈 Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/jalaym825?ext=heatmap)
+2. **[Soul Music Discord Bot](https://discord.com/oauth2/authorize?client_id=866956216420007946&scope=bot)**
+   - 10,000+ users, 580,000+ servers
+   - Tech: Node.js, Discord.js, Spotify API, Shoukaku
+
+3. **[Live Cricket Scoring Website for Spoural](https://github.com/jalaym825?tab=repositories)**
+   - Real-time score updates and interactive functionalities
+   - Tech: Node.js, Express.js, Socket.io, React.js, PostgreSQL
+
+4. **[Telegram University Material Bot](https://github.com/jalaym825/tele-ce-bot)**
+   - Streamlined access to course materials for 500+ students
+   - Tech: Node.js, Telegraf
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalaym825&theme=dark&hide_border=false)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/jalaym825?ext=heatmap)
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaymovaliya)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jalaym825)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jalaym825)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jalaym825)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jalaym825)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jalaym825&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Profile Views](https://visitcount.itsvg.in/api?id=jalaym825&icon=0&color=0)
