@@ -17,9 +17,9 @@
 - DevOps: Docker, Git & GitHub
 
 ## 🏆 Achievements
-- 🏅 LeetCode Knight (Max Rating: 1913, Top 4.21%)
+- 🏅 LeetCode Knight (Max Rating: 1980, Top 2.97%)
   - Ranked 1356th globally in Weekly Contest 401
-  - Solved 450+ challenges
+  - Solved 500+ challenges
 - ⭐ CodeChef 3 Star (Max Rating: 1655)
   - Ranked 285th out of 3014 in Start 112
 - 🥇 7th place out of 1000 in Coder's Arcade (University Level CP Contest)
