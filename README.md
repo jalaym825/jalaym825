@@ -2,18 +2,18 @@
 ## 💫 About Me
 🎓 B.Tech Computer Engineering student at CHARUSAT (CGPA: 9.64/10)
 
-💼 Software Developer at Neev Technologies (Remote)
+💼 Software Development Engineer - Intern at Genuin Codebase LLP
 
-🧠 Currently deepening my expertise in NestJS, Spring, and Data Structures & Algorithms
+🧠 Currently deepening my expertise in Golang, Node.js, and Data Structures & Algorithms
 
-🚀 Working on CareerQuest, an AI-driven hiring platform (Backend Developer)
+🚀 Working on CodePie, an coding platform (Full-stack Developer)
 
 ## 🛠 Tech Stack
-- Languages: Java, JavaScript, TypeScript, C/C++
-- Backend: Node.js, NestJS, Express.js, Spring Boot
-- Frontend: React.js, React Native
+- Languages: Golang, JavaScript, TypeScript
+- Backend: Node.js, NestJS, Express.js
+- Frontend: React.js
 - Databases: PostgreSQL, MongoDB
-- ORM: Prisma, Hibernate
+- ORM: Prisma
 - DevOps: Docker, Git & GitHub
 
 ## 🏆 Achievements
