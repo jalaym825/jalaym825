@@ -89,4 +89,3 @@ Built and operated a university-scale competitive programming platform powering 
 - [Codeforces](https://codeforces.com/profile/jalaym825)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jalaym825)
 - [LinkedIn](https://www.linkedin.com/in/jalaymovaliya/)
-- [GitHub](https://github.com/jalaym825)
