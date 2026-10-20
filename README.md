@@ -1,59 +1,92 @@
-# 👋 Hi, I'm Jalay Movaliya
-## 💫 About Me
-🎓 B.Tech Computer Engineering student at CHARUSAT (CGPA: 9.64/10)
+# Jalay Movaliya
 
-💼 Software Development Engineer - Intern at Genuin Codebase LLP
+**Software Engineer | Backend & Distributed Systems**
 
-🧠 Currently deepening my expertise in Golang, Node.js, and Data Structures & Algorithms
+B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building scalable backend systems, developer tools, and real-time applications.
 
-🚀 Working on CodePie, an coding platform (Full-stack Developer)
+- **Education:** CHARUSAT, CGPA 9.64/10
+- **Currently:** Software Product Developer Intern at Eli Lilly and Company
+- **Interests:** Backend engineering, distributed systems, databases, and system design
+- **Email:** [jalaym825@gmail.com](mailto:jalaym825@gmail.com)
+- **LinkedIn:** [jalaymovaliya](https://www.linkedin.com/in/jalaymovaliya/)
 
-## 🛠 Tech Stack
-- Languages: Golang, JavaScript, TypeScript
-- Backend: Node.js, NestJS, Express.js
-- Frontend: React.js
-- Databases: PostgreSQL, MongoDB
-- ORM: Prisma
-- DevOps: Docker, Git & GitHub
+## Experience
 
-## 🏆 Achievements
-- 🏅 LeetCode Knight (Max Rating: 1980, Top 2.97%)
-  - Ranked 1356th globally in Weekly Contest 401
-  - Solved 500+ challenges
-- ⭐ CodeChef 3 Star (Max Rating: 1655)
-  - Ranked 285th out of 3014 in Start 112
-- 🥇 7th place out of 1000 in Coder's Arcade (University Level CP Contest)
+### Eli Lilly and Company | Software Product Developer Intern
+*May 2026 - Present · Bengaluru, India*
 
-## 🌟 Featured Projects
-1. **CareerQuest** (In Progress)
-   - AI-driven hiring platform with automated tests and interviews
-   - Tech: AI, LangChain, Node.js, NestJS, React.js
-2. **[Soul Music Discord Bot](https://discord.com/oauth2/authorize?client_id=866956216420007946&scope=bot)**
-   - 10,000+ users, 580,000+ servers
-   - Tech: Node.js, Discord.js, Spotify API, Shoukaku
-3. **[Live Cricket Scoring Website for Spoural](https://github.com/jalaym825?tab=repositories)**
-   - Real-time score updates and interactive functionalities
-   - Tech: Node.js, Express.js, Socket.io, React.js, PostgreSQL
-4. **[Telegram University Material Bot](https://github.com/jalaym825/tele-ce-bot)**
-   - Streamlined access to course materials for 500+ students
-   - Tech: Node.js, Telegraf
+- Built **RelayHub Control Centre**, a knowledge base platform featuring FAQ versioning, approval queues, and audit logs.
+- Shipped text-to-speech and speech-to-text capabilities for Chat-in-a-Box and developed a **Golang-based MCP server** integrated with AWS S3 for native image generation.
+- Owned CI/CD, infrastructure, and deployment practices for Inkstone.
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+**Tech:** Go, Python, FastAPI, PostgreSQL, Next.js, AWS S3
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalaym825&theme=dark&hide_border=false)
+### Genuin Codebase LLP | Software Development Engineer Intern
+*Jan 2025 - April 2026 · Ahmedabad, India*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaym825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Built frontend architecture and interaction workflows for a multi-agent conversational platform, including advanced chat editing and version traversal.
+- Developed the frontend for an automated brand onboarding engine, reducing onboarding time from **30 minutes to under 1 minute**.
+- Integrated Aerospike caching into authentication, reducing autologin latency from **~1 second to 50 ms**.
+- Contributed to backend debugging and CRUD API development in Go and Node.js.
 
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/jalaym825?ext=heatmap)
+**Tech:** Go, Node.js, PostgreSQL, MongoDB, Aerospike, React, Next.js, Zustand
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaymovaliya)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jalaym825)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jalaym825)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jalaym825)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jalaym825)
+### Neev Technologies | Software Development Engineer Intern
+*May 2024 - September 2024 · Remote*
 
----
-![Profile Views](https://visitcount.itsvg.in/api?id=jalaym825&icon=0&color=0)
+- Integrated Plaid for automated KYC and Mercury for withdrawal automation.
+- Improved admin and mobile application features through analytics, filters, deep linking, and backend debugging.
+
+**Tech:** Node.js, PostgreSQL, React, React Native
+
+## Featured Projects
+
+### [CodePie](https://codepie.app/) | Competitive Programming Platform
+
+*Go, Node.js, PostgreSQL, Prisma, React, Socket.IO, Docker, Judge0*
+
+Built and operated a university-scale competitive programming platform powering **12+ on-premise contests** at CHARUSAT, serving **300 to 350 participants per contest**.
+
+- **Real-world scale:** Processed 4,000 to 5,000 code submissions within 3 hours during university contests, handling intense bursts of concurrent submissions.
+- **Reliable judging infrastructure:** Deployed and managed a self-hosted Judge0 cluster for isolated code execution and automated evaluation.
+- **Performance optimization:** Replaced per-submission leaderboard recalculations with scheduled batch processing, reducing database overhead during contests.
+- **Built for students:** Developed the end-to-end contest experience, including submissions, automated judging, and real-time leaderboard updates.
+
+### [Soul Music](https://discord.com/oauth2/authorize?client_id=866956216420007946&scope=bot) | Distributed Discord Music Bot
+
+*Node.js, Discord.js, Shoukaku, Lavalink*
+
+- Built a distributed music bot serving **10,000+ daily users across 580,000+ Discord servers**.
+- Used clustering and sharding to operate at scale, respect Discord rate limits, and maintain high availability.
+
+## Achievements
+
+- **LeetCode Knight:** Peak rating of 1980, ranking in the top 3% globally.
+- **Odoo x IIT Gandhinagar Hackathon:** Top 7, leading development of Heal.AI, a multilingual healthcare assistant.
+- **Coders' Arcade:** Ranked 7th among 1,000+ participants in a competitive programming contest.
+- **Odoo x CHARUSAT Hackathon 2025:** Event Lead, responsible for logistics and technical setup, including QR-based registration and check-in.
+
+## Tech Stack
+
+**Languages:** Go, JavaScript, TypeScript, Python
+
+**Backend:** Node.js, Express.js, FastAPI
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Databases & Caching:** PostgreSQL, MongoDB, Redis, Aerospike
+
+**Distributed Systems:** Queues, caching, WebSockets, rate limiting, sharding
+
+**Tools & Infrastructure:** Docker, AWS S3, Git, GitHub, Jest
+
+**ORM:** Prisma
+
+## Competitive Programming & Profiles
+
+- [LeetCode](https://leetcode.com/u/jalaym825)
+- [CodeChef](https://www.codechef.com/users/jalaym825)
+- [Codeforces](https://codeforces.com/profile/jalaym825)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jalaym825)
+- [LinkedIn](https://www.linkedin.com/in/jalaymovaliya/)
+- [GitHub](https://github.com/jalaym825)
