@@ -13,7 +13,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 ## Experience
 
 ### Eli Lilly and Company | Software Product Developer Intern
-*May 2026 - Present · Bengaluru, India*
+*May 2026 - Oct 2026 · Bengaluru, India*
 
 - Built **RelayHub Control Centre**, a knowledge base platform featuring FAQ versioning, approval queues, and audit logs.
 - Shipped text-to-speech and speech-to-text capabilities for Chat-in-a-Box and developed a **Golang-based MCP server** integrated with AWS S3 for native image generation.
@@ -43,7 +43,7 @@ B.Tech in Computer Engineering at CHARUSAT, graduating in 2026. I enjoy building
 
 ### [CodePie](https://codepie.app/) | Competitive Programming Platform
 
-*Go, Node.js, PostgreSQL, Prisma, React, Socket.IO, Docker, Judge0*
+*Go, PostgreSQL, React, Docker, Judge0*
 
 Built and operated a university-scale competitive programming platform powering **12+ on-premise contests** at CHARUSAT, serving **300 to 350 participants per contest**.
 
